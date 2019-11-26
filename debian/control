@@ -1,0 +1,14 @@
+Source: zero-lliurex-starboard
+Section: x11
+Priority: optional
+Maintainer: Equipo LliureX <lliurex@gva.es>
+Build-Depends: cdbs, debhelper (>= 10),zero-dev, llxsrchelper,inkscape (>= 0.47)
+Standards-Version: 4.1.2
+
+Package: zero-lliurex-starboard
+Architecture: any
+Section: x11
+Depends: zero-center,epi-gtk,zero-lliurex-docker
+Description: Starboard software installer
+  Zero-center helper, It downloads and installs lliurex-starboard package
+ 
