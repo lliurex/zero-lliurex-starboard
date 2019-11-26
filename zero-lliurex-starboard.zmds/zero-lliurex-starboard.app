@@ -1,0 +1,16 @@
+Name=zero-lliurex-starboard
+Name[es]=Instalación del software de Starboard
+Name[en]=Installing Starboard software
+Name[qcv]=Instal·lació del programari de Starboard
+Name[ca_ES]=Instal·lació del programari de Starboard
+Comment=Starboard software installation wizard
+Comment[es]=Asistente de instalación del software pizarra Starboard
+Comment[qcv]=Auxiliar d'instal·lació del programari de la pisarra Starboard
+Comment[ca_ES]=Auxiliar d'instal·lació del programaride la pisarra Starboard
+Icon=zero-lliurex-starboard
+Groups=admin;admins;teachers;sudo
+Category=Support
+ScriptPath=zero-lliurex-starboard.zmd
+Using=pkexec
+Service=True
+Modal=True

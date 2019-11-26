@@ -1,0 +1,7 @@
+{
+	"type":"apt",
+	"pkg_list": [{"name":"lliurex-starboard","key_store":"zero-lliurex-starboard"},{"name":"starboard-modules","key-store":"zero-lliurex-starboard"}], 
+	"script": {"name":"/usr/share/zero-lliurex-starboard/lliurex-starboard_script","download":true},
+	"depends": "/usr/share/zero-lliurex-docker/docker.epi",
+	"zomando":"zero-lliurex-starboard"
+}

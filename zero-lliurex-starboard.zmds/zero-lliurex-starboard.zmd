@@ -1,0 +1,3 @@
+#!/bin/bash
+
+epi-gtk /usr/share/zero-lliurex-starboard/lliurex-starboard.epi
